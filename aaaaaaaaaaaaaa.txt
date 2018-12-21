@@ -15,4 +15,4 @@
 	path = C:\fgsdfxe
 [mergetool]
 	prompt = false
-	
+l;asdfjkkl;asdfjkl;asdfj;lka	
