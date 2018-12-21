@@ -1,6 +1,6 @@
 [user]
 	name = AAAAAAA
-	email = huynhduc765@gmail.com
+	email = huynhssssssssssssssssduc765@gmail.com
 [core]
 	editor = 'C:/Program Files/Notepad++/notepad++.exe' -multiInst -notabbar -nosession -noPlugin
 [commit]
