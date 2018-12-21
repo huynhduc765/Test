@@ -15,4 +15,4 @@
 	path = C:\\Program Files\\Perforce\\p4merge.exe
 [mergetool]
 	prompt = false
-	
+l;asdfjkkl;asdfjkl;asdfj;lka	
